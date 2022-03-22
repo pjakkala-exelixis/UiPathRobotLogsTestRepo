@@ -1,0 +1,932 @@
+﻿Time,Level,Robot name,Process,Hostname,Host Identity,Message
+2/23/2022 8:24:59 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/23/2022 8:25:06 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Process Execution Started : 02/23/2022 21:55:06
+2/23/2022 8:25:06 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Reading Config file
+2/23/2022 8:25:08 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/23/2022 8:25:08 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/23/2022 8:25:08 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/23/2022 8:25:13 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Logging into Carbon Health portal
+2/23/2022 8:25:16 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/23/2022 8:25:35 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/23/2022 8:27:06 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+2/23/2022 8:27:06 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/23/2022 8:28:32 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+2/23/2022 8:28:32 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/23/2022 8:29:57 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+2/23/2022 8:29:57 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,"Move File: Value cannot be null.
+Parameter name: path2"
+2/23/2022 8:29:57 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,"Invoke DownloadCarbonHealthReport workflow: Value cannot be null.
+Parameter name: path2"
+2/23/2022 8:29:57 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,"Invoke CarbonHealthReportDownload workflow: Value cannot be null.
+Parameter name: path2"
+2/23/2022 8:29:57 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/23/2022 8:33:53 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/23/2022 8:33:56 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Process Execution Started : 02/23/2022 22:03:56
+2/23/2022 8:33:56 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Reading Config file
+2/23/2022 8:33:57 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/23/2022 8:33:57 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/23/2022 8:33:57 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/23/2022 8:34:00 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Logging into Carbon Health portal
+2/23/2022 8:34:03 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/23/2022 8:34:16 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/23/2022 8:35:48 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+2/23/2022 8:35:48 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/23/2022 8:36:34 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+2/23/2022 8:36:34 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Carbon Health report downloaded successfully
+2/23/2022 8:36:34 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/23/2022 8:36:36 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Comparison of Carbon Health Employee report and On-site report is completed.
+2/23/2022 8:36:37 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Non-Compliant User ID's extracted from Daily Compliance report.
+2/23/2022 8:36:38 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\CarbonHealthDailyCheckin\Template\Checkin NonCompliance DATE.docx
+2/23/2022 8:36:47 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Missed Carbon Checkin email sent to all Non-Complinat Users.
+2/23/2022 8:36:49 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Daily Compliance Report sent to business group.
+2/23/2022 8:36:49 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/23/2022 8:36:49 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,40145A-PRD1-089,EXELIXIS\aadvitot,Process Execution Completed : 02/23/2022 22:06:49
+2/24/2022 12:42:07 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/24/2022 12:42:21 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Process Execution Started : 02/24/2022 08:42:21
+2/24/2022 12:42:22 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Reading Config file
+2/24/2022 12:42:23 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Input to Archive folder
+2/24/2022 12:42:23 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Output to Archive folder
+2/24/2022 12:42:23 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving files present in Downloads folder to Archive folder
+2/24/2022 12:42:26 AM,Error,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Get Outlook Mail Messages: The specified folder does not exist
+2/24/2022 12:42:26 AM,Error,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: The specified folder does not exist
+2/24/2022 12:42:26 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/25/2022 9:33:38 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/25/2022 9:33:51 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Process Execution Started : 02/25/2022 17:33:51
+2/25/2022 9:33:52 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Reading Config file
+2/25/2022 9:33:53 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Input to Archive folder
+2/25/2022 9:33:53 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Output to Archive folder
+2/25/2022 9:33:53 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving files present in Downloads folder to Archive folder
+2/25/2022 9:34:23 AM,Error,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Get Outlook Mail Messages: The operation has timed out.
+2/25/2022 9:34:23 AM,Error,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: The operation has timed out.
+2/25/2022 9:34:23 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/25/2022 9:35:33 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/25/2022 9:35:34 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Process Execution Started : 02/25/2022 17:35:34
+2/25/2022 9:35:34 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Reading Config file
+2/25/2022 9:35:35 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Input to Archive folder
+2/25/2022 9:35:35 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Output to Archive folder
+2/25/2022 9:35:35 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving files present in Downloads folder to Archive folder
+2/25/2022 9:35:44 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Logging into Carbon Health portal
+2/25/2022 9:35:46 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/25/2022 9:37:20 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/25/2022 9:38:51 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/28/2022 5:16:18 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 5:16:34 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Process Execution Started : 02/28/2022 13:16:34
+2/28/2022 5:16:35 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Reading Config file
+2/28/2022 5:16:36 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Input to Archive folder
+2/28/2022 5:16:36 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Output to Archive folder
+2/28/2022 5:16:36 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving files present in Downloads folder to Archive folder
+2/28/2022 5:16:43 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Onsite Report email not received for 28-Feb-2022
+2/28/2022 5:16:48 AM,Error,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Throw: Onsite Report email not received for 28-Feb-2022
+2/28/2022 5:16:48 AM,Error,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: Onsite Report email not received for 28-Feb-2022
+2/28/2022 5:16:48 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 5:18:06 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 5:18:08 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Process Execution Started : 02/28/2022 13:18:08
+2/28/2022 5:18:08 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Reading Config file
+2/28/2022 5:18:09 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Input to Archive folder
+2/28/2022 5:18:09 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Output to Archive folder
+2/28/2022 5:18:09 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving files present in Downloads folder to Archive folder
+2/28/2022 5:18:17 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Logging into Carbon Health portal
+2/28/2022 5:18:19 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/28/2022 5:19:51 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/28/2022 5:21:23 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/28/2022 5:22:29 AM,Error,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Throw: Unable to login Carbon Health portal
+2/28/2022 5:22:29 AM,Error,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Invoke Launch&LoginToCarbonHealth workflow: Unable to login Carbon Health portal
+2/28/2022 5:22:29 AM,Error,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Invoke CarbonHealthReportDownload workflow: Unable to login Carbon Health portal
+2/28/2022 5:22:29 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 7:44:26 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 7:44:29 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Process Execution Started : 02/28/2022 07:44:29
+2/28/2022 7:44:30 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Reading Config file
+2/28/2022 7:44:31 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/28/2022 7:44:31 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/28/2022 7:44:31 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/28/2022 7:44:33 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:44:39 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Throw: Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:44:39 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:44:39 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 7:47:34 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 7:47:35 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Process Execution Started : 02/28/2022 07:47:35
+2/28/2022 7:47:35 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Reading Config file
+2/28/2022 7:47:36 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/28/2022 7:47:36 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/28/2022 7:47:36 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/28/2022 7:47:36 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:47:41 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Throw: Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:47:41 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:47:41 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 7:48:06 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 7:48:07 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Process Execution Started : 02/28/2022 07:48:07
+2/28/2022 7:48:07 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Reading Config file
+2/28/2022 7:48:08 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/28/2022 7:48:08 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/28/2022 7:48:08 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/28/2022 7:48:08 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:48:16 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Throw: Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:48:16 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:48:16 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 7:48:49 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 7:48:50 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Process Execution Started : 02/28/2022 07:48:50
+2/28/2022 7:48:50 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Reading Config file
+2/28/2022 7:48:51 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/28/2022 7:48:51 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/28/2022 7:48:51 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/28/2022 7:48:51 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:48:58 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Throw: Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:48:58 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:48:58 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 7:50:29 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 7:50:31 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Process Execution Started : 02/28/2022 07:50:31
+2/28/2022 7:50:31 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Reading Config file
+2/28/2022 7:50:32 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/28/2022 7:50:32 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/28/2022 7:50:32 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/28/2022 7:50:32 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:50:34 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Throw: Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:50:34 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:50:34 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 7:51:31 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 7:51:32 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Process Execution Started : 02/28/2022 07:51:32
+2/28/2022 7:51:33 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Reading Config file
+2/28/2022 7:51:34 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/28/2022 7:51:34 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/28/2022 7:51:34 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/28/2022 7:51:34 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:51:39 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Throw: Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:51:39 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:51:39 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 7:54:02 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 7:54:04 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Process Execution Started : 02/28/2022 07:54:04
+2/28/2022 7:54:04 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Reading Config file
+2/28/2022 7:54:05 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/28/2022 7:54:05 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/28/2022 7:54:05 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/28/2022 7:54:07 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:54:13 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Throw: Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:54:13 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:54:13 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 7:55:15 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 7:55:17 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Process Execution Started : 02/28/2022 21:25:17
+2/28/2022 7:55:17 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Reading Config file
+2/28/2022 7:55:18 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/28/2022 7:55:18 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/28/2022 7:55:18 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/28/2022 7:55:20 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Logging into Carbon Health portal
+2/28/2022 7:55:21 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/28/2022 7:55:35 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/28/2022 7:57:06 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+2/28/2022 7:57:06 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/28/2022 7:57:32 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+2/28/2022 7:57:32 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Carbon Health report downloaded successfully
+2/28/2022 7:57:32 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/28/2022 7:57:34 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Comparison of Carbon Health Employee report and On-site report is completed.
+2/28/2022 7:57:35 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Non-Compliant User ID's extracted from Daily Compliance report.
+2/28/2022 7:57:35 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\CarbonHealthDailyCheckin\Template\Checkin NonCompliance DATE.docx
+2/28/2022 7:57:40 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Missed Carbon Checkin email sent to all Non-Complinat Users.
+2/28/2022 7:57:40 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Daily Compliance Report sent to business group.
+2/28/2022 7:57:40 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Process Execution Completed : 02/28/2022 21:27:40
+2/28/2022 7:57:40 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 7:58:01 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 7:58:02 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Process Execution Started : 02/28/2022 21:28:02
+2/28/2022 7:58:02 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Reading Config file
+2/28/2022 7:58:03 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/28/2022 7:58:03 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/28/2022 7:58:03 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/28/2022 7:58:04 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Logging into Carbon Health portal
+2/28/2022 7:58:05 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/28/2022 7:58:18 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/28/2022 7:58:49 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+2/28/2022 7:58:49 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Carbon Health report downloaded successfully
+2/28/2022 7:58:49 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/28/2022 7:58:52 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Comparison of Carbon Health Employee report and On-site report is completed.
+2/28/2022 7:58:52 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Non-Compliant User ID's extracted from Daily Compliance report.
+2/28/2022 7:58:53 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\CarbonHealthDailyCheckin\Template\Checkin NonCompliance DATE.docx
+2/28/2022 7:58:57 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Missed Carbon Checkin email sent to all Non-Complinat Users.
+2/28/2022 7:58:58 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Daily Compliance Report sent to business group.
+2/28/2022 7:58:58 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Process Execution Completed : 02/28/2022 21:28:58
+2/28/2022 7:58:58 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,EXEL-P2-VDI125,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 7:59:21 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 7:59:23 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Process Execution Started : 02/28/2022 07:59:23
+2/28/2022 7:59:23 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Reading Config file
+2/28/2022 7:59:24 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/28/2022 7:59:24 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/28/2022 7:59:24 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/28/2022 7:59:25 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:59:31 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Throw: Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:59:31 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: Onsite Report email not received for 28-Feb-2022
+2/28/2022 7:59:31 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 8:23:43 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 8:23:45 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Process Execution Started : 02/28/2022 08:23:45
+2/28/2022 8:23:45 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Reading Config file
+2/28/2022 8:23:46 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/28/2022 8:23:46 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/28/2022 8:23:46 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/28/2022 8:23:50 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Onsite Report email not received for 28-Feb-2022
+2/28/2022 8:24:14 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Throw: Onsite Report email not received for 28-Feb-2022
+2/28/2022 8:24:14 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: Onsite Report email not received for 28-Feb-2022
+2/28/2022 8:24:14 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 9:01:57 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 9:01:59 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Process Execution Started : 02/28/2022 09:01:59
+2/28/2022 9:01:59 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Reading Config file
+2/28/2022 9:02:00 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/28/2022 9:02:00 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/28/2022 9:02:00 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/28/2022 9:02:04 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Get Outlook Mail Messages: The specified folder does not exist
+2/28/2022 9:02:04 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: The specified folder does not exist
+2/28/2022 9:02:04 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 9:03:02 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 9:03:04 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Process Execution Started : 02/28/2022 09:03:04
+2/28/2022 9:03:04 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Reading Config file
+2/28/2022 9:03:05 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/28/2022 9:03:05 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/28/2022 9:03:05 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/28/2022 9:03:06 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Onsite Report email not received for 28-Feb-2022
+2/28/2022 9:03:09 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Throw: Onsite Report email not received for 28-Feb-2022
+2/28/2022 9:03:09 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: Onsite Report email not received for 28-Feb-2022
+2/28/2022 9:03:09 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 9:05:46 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 9:05:47 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Process Execution Started : 02/28/2022 09:05:47
+2/28/2022 9:05:48 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Reading Config file
+2/28/2022 9:05:48 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/28/2022 9:05:48 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/28/2022 9:05:48 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/28/2022 9:05:49 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Onsite Report email not received for 28-Feb-2022
+2/28/2022 9:05:53 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Throw: Onsite Report email not received for 28-Feb-2022
+2/28/2022 9:05:53 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: Onsite Report email not received for 28-Feb-2022
+2/28/2022 9:05:53 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 9:07:02 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 9:07:03 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Process Execution Started : 02/28/2022 09:07:03
+2/28/2022 9:07:04 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Reading Config file
+2/28/2022 9:07:04 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/28/2022 9:07:04 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/28/2022 9:07:04 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/28/2022 9:07:05 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Onsite Report email not received for 28-Feb-2022
+2/28/2022 9:07:07 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Throw: Onsite Report email not received for 28-Feb-2022
+2/28/2022 9:07:07 AM,Error,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: Onsite Report email not received for 28-Feb-2022
+2/28/2022 9:07:07 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+2/28/2022 9:20:51 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+2/28/2022 9:20:52 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Process Execution Started : 02/28/2022 09:20:52
+2/28/2022 9:20:52 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Reading Config file
+2/28/2022 9:20:53 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+2/28/2022 9:20:53 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+2/28/2022 9:20:53 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+2/28/2022 9:20:54 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Logging into Carbon Health portal
+2/28/2022 9:20:57 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/28/2022 9:21:34 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/28/2022 9:23:05 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+2/28/2022 9:23:05 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/28/2022 9:23:34 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+2/28/2022 9:23:34 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Carbon Health report downloaded successfully
+2/28/2022 9:23:34 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+2/28/2022 9:23:37 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Comparison of Carbon Health Employee report and On-site report is completed.
+2/28/2022 9:23:37 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Non-Compliant User ID's extracted from Daily Compliance report.
+2/28/2022 9:23:38 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\Desktop\BPA\CarbonHealthDailyCheckin\Template\Checkin NonCompliance DATE.docx
+2/28/2022 9:23:45 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Missed Carbon Checkin email sent to all Non-Complinat Users.
+2/28/2022 9:23:46 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Process Execution Completed : 02/28/2022 09:23:46
+2/28/2022 9:23:46 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Daily Compliance Report sent to business group.
+2/28/2022 9:23:46 AM,Info,aadvitot@exelixis.com-attended,Facilities_CarbonHealth_DailyCheckin_07Dec,FINAUTOOPS01,EXELIXIS\aadvitot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+3/2/2022 3:50:24 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+3/2/2022 3:50:40 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Process Execution Started : 03/02/2022 11:50:40
+3/2/2022 3:50:40 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Reading Config file
+3/2/2022 3:50:41 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Input to Archive folder
+3/2/2022 3:50:41 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Output to Archive folder
+3/2/2022 3:50:41 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving files present in Downloads folder to Archive folder
+3/2/2022 3:50:52 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Logging into Carbon Health portal
+3/2/2022 3:50:54 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/2/2022 3:51:48 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/2/2022 3:52:24 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Checking for Employees Carbon Health report
+3/2/2022 3:52:24 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Carbon Health report downloaded successfully
+3/2/2022 3:52:24 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/2/2022 3:52:26 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Comparison of Carbon Health Employee report and On-site report is completed.
+3/2/2022 3:52:27 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Non-Compliant User ID's extracted from Daily Compliance report.
+3/2/2022 3:52:27 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Word. Document: C:\Users\svc_uibot\Desktop\BPA\CarbonHealthDailyCheckin\Template\Checkin NonCompliance DATE.docx
+3/2/2022 3:52:42 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Missed Carbon Checkin email sent to all Non-Complinat Users.
+3/2/2022 3:52:50 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Daily Compliance Report sent to business group.
+3/2/2022 3:52:50 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Process Execution Completed : 03/02/2022 11:52:50
+3/2/2022 3:52:50 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+3/2/2022 3:55:36 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Facilities_CarbonHealth_DailyCheckin_07Dec execution started
+3/2/2022 3:55:38 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Process Execution Started : 03/02/2022 11:55:38
+3/2/2022 3:55:39 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Reading Config file
+3/2/2022 3:55:40 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Input to Archive folder
+3/2/2022 3:55:40 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Output to Archive folder
+3/2/2022 3:55:40 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving files present in Downloads folder to Archive folder
+3/2/2022 3:55:42 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Logging into Carbon Health portal
+3/2/2022 3:55:44 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/2/2022 3:56:03 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/2/2022 3:56:39 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Checking for Employees Carbon Health report
+3/2/2022 3:56:39 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Carbon Health report downloaded successfully
+3/2/2022 3:56:40 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/2/2022 3:56:42 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Comparison of Carbon Health Employee report and On-site report is completed.
+3/2/2022 3:56:43 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Non-Compliant User ID's extracted from Daily Compliance report.
+3/2/2022 3:56:43 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Word. Document: C:\Users\svc_uibot\Desktop\BPA\CarbonHealthDailyCheckin\Template\Checkin NonCompliance DATE.docx
+3/2/2022 3:57:18 AM,Error,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Send Outlook Mail Message: The operation has timed out.
+3/2/2022 3:57:18 AM,Error,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Invoke SendEmailToNonCompliantUsers workflow: The operation has timed out.
+3/2/2022 3:57:18 AM,Info,svc_uibot@exelixis.com-unattended,Facilities_CarbonHealth_DailyCheckin_07Dec,UBOTWINPRD01,EXELIXIS\svc_uibot,Facilities_CarbonHealth_DailyCheckin_07Dec execution ended
+3/8/2022 2:49:53 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/8/2022 2:49:59 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Process Execution Started : 03/08/2022 16:19:59
+3/8/2022 2:50:00 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Closing the applications
+3/8/2022 2:50:00 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Reading Config file
+3/8/2022 2:50:01 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Defaultpath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA
+3/8/2022 2:50:01 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+3/8/2022 2:50:01 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+3/8/2022 2:50:01 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+3/8/2022 2:50:06 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Logging into Carbon Health portal
+3/8/2022 2:50:07 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 2:50:29 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 2:50:38 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/8/2022 2:50:38 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/8/2022 2:50:38 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,"System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at lambda_method(Closure , ActivityContext )
+   at Microsoft.VisualBasic.Activities.VisualBasicValue`1.Execute(CodeActivityContext context)
+   at System.Activities.CodeActivity`1.InternalExecuteInResolutionContext(CodeActivityContext context)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteInResolutionContext[T](ActivityInstance parentInstance, Activity`1 expressionActivity)
+   at System.Activities.InArgument`1.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance activityInstance, ActivityExecutor executor)
+   at System.Activities.RuntimeArgument.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance targetActivityInstance, ActivityExecutor executor, Object argumentValueOverride, Location resultLocation, Boolean skipFastPath)
+   at System.Activities.ActivityInstance.InternalTryPopulateArgumentValueOrScheduleExpression(RuntimeArgument argument, Int32 nextArgumentIndex, ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Boolean isDynamicUpdate)
+   at System.Activities.ActivityInstance.ResolveArguments(ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Int32 startIndex)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+3/8/2022 2:50:40 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,"Assign: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index"
+3/8/2022 2:50:40 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution ended
+3/8/2022 3:09:50 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/8/2022 3:09:57 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Process Execution Started : 03/08/2022 16:39:57
+3/8/2022 3:09:57 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Closing the applications
+3/8/2022 3:09:58 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Reading Config file
+3/8/2022 3:09:59 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Defaultpath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA
+3/8/2022 3:09:59 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+3/8/2022 3:09:59 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+3/8/2022 3:09:59 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+3/8/2022 3:10:04 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Logging into Carbon Health portal
+3/8/2022 3:10:07 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:10:13 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:10:45 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+3/8/2022 3:10:45 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,File Downloaded | File Name is : C:\Users\aadvitot\Downloads\employees-2022-03-08_16_40.csv
+3/8/2022 3:10:45 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Carbon Health report downloaded successfully
+3/8/2022 3:10:45 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Carbon Health Employee Report path: \BPA\CarbonHealthDailyCheckin\Input\employees-2022-03-08_16_40.csv
+3/8/2022 3:10:45 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:10:52 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Comparison of Carbon Health Employee report and On-site report is completed.
+3/8/2022 3:10:53 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Non-Compliant User ID's extracted from Daily Compliance report.
+3/8/2022 3:10:54 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/8/2022 3:10:54 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/8/2022 3:10:55 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,"System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\BPA\CarbonHealthDailyCheckin\Template'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   at System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   at System.IO.Directory.GetFiles(String path)
+   at lambda_method(Closure , ActivityContext )
+   at Microsoft.VisualBasic.Activities.VisualBasicValue`1.Execute(CodeActivityContext context)
+   at System.Activities.CodeActivity`1.InternalExecuteInResolutionContext(CodeActivityContext context)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteInResolutionContext[T](ActivityInstance parentInstance, Activity`1 expressionActivity)
+   at System.Activities.InArgument`1.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance activityInstance, ActivityExecutor executor)
+   at System.Activities.RuntimeArgument.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance targetActivityInstance, ActivityExecutor executor, Object argumentValueOverride, Location resultLocation, Boolean skipFastPath)
+   at System.Activities.ActivityInstance.InternalTryPopulateArgumentValueOrScheduleExpression(RuntimeArgument argument, Int32 nextArgumentIndex, ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Boolean isDynamicUpdate)
+   at System.Activities.ActivityInstance.ResolveArguments(ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Int32 startIndex)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+3/8/2022 3:10:58 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Invoke SendEmailToNonCompliantUsers workflow: Could not find a part of the path 'C:\BPA\CarbonHealthDailyCheckin\Template'.
+3/8/2022 3:10:58 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution ended
+3/8/2022 3:12:31 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/8/2022 3:12:37 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Process Execution Started : 03/08/2022 16:42:37
+3/8/2022 3:12:38 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Closing the applications
+3/8/2022 3:12:38 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Reading Config file
+3/8/2022 3:13:01 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Defaultpath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA
+3/8/2022 3:14:39 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/8/2022 3:14:45 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Process Execution Started : 03/08/2022 16:44:45
+3/8/2022 3:14:45 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Closing the applications
+3/8/2022 3:14:46 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Reading Config file
+3/8/2022 3:15:00 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/8/2022 3:15:00 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/8/2022 3:15:36 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/8/2022 3:15:40 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Process Execution Started : 03/08/2022 16:45:40
+3/8/2022 3:15:40 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Closing the applications
+3/8/2022 3:15:40 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Reading Config file
+3/8/2022 3:15:41 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/8/2022 3:15:41 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/8/2022 3:15:41 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+3/8/2022 3:15:41 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+3/8/2022 3:15:41 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+3/8/2022 3:15:45 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Logging into Carbon Health portal
+3/8/2022 3:15:46 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:16:00 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:16:35 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+3/8/2022 3:16:36 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,File Downloaded | File Name is : C:\Users\aadvitot\Downloads\employees-2022-03-08_16_46.csv
+3/8/2022 3:16:36 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Carbon Health report downloaded successfully
+3/8/2022 3:16:36 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Carbon Health Employee Report path: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\CarbonHealthDailyCheckin\Input\employees-2022-03-08_16_46.csv
+3/8/2022 3:16:36 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:16:40 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Comparison of Carbon Health Employee report and On-site report is completed.
+3/8/2022 3:16:41 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Non-Compliant User ID's extracted from Daily Compliance report.
+3/8/2022 3:16:42 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\CarbonHealthDailyCheckin\Template\Checkin NonCompliance DATE.docx
+3/8/2022 3:16:52 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Missed Carbon Checkin email sent to all Non-Complinat Users.
+3/8/2022 3:16:54 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Daily Compliance Report sent to business group.
+3/8/2022 3:16:54 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Process Execution Completed : 03/08/2022 16:46:54
+3/8/2022 3:16:54 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution ended
+3/8/2022 3:20:34 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/8/2022 3:20:40 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Process Execution Started : 03/08/2022 16:50:40
+3/8/2022 3:20:41 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Closing the applications
+3/8/2022 3:20:41 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Reading Config file
+3/8/2022 3:20:42 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/8/2022 3:20:42 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/8/2022 3:20:42 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+3/8/2022 3:20:42 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+3/8/2022 3:20:42 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+3/8/2022 3:20:47 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Logging into Carbon Health portal
+3/8/2022 3:20:47 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:21:01 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:22:33 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+3/8/2022 3:22:33 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Could not find the file named employees
+3/8/2022 3:22:33 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:23:59 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+3/8/2022 3:23:59 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Could not find the file named employees
+3/8/2022 3:23:59 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:25:24 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+3/8/2022 3:25:24 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Could not find the file named employees
+3/8/2022 3:25:25 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/8/2022 3:25:25 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/8/2022 3:25:25 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,"System.ArgumentNullException: Value cannot be null.
+Parameter name: path2
+   at System.IO.Path.Combine(String path1, String path2)
+   at UiPath.Core.Activities.MoveFile.Execute(CodeActivityContext context)
+   at System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+3/8/2022 3:25:28 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,"Move File: Value cannot be null.
+Parameter name: path2"
+3/8/2022 3:25:28 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution ended
+3/8/2022 3:32:21 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/8/2022 3:32:26 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Process Execution Started : 03/08/2022 17:02:26
+3/8/2022 3:32:26 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Closing the applications
+3/8/2022 3:32:26 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Reading Config file
+3/8/2022 3:32:27 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/8/2022 3:32:27 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/8/2022 3:32:27 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+3/8/2022 3:32:27 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+3/8/2022 3:32:27 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+3/8/2022 3:32:32 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Logging into Carbon Health portal
+3/8/2022 3:32:35 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:32:39 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:34:11 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+3/8/2022 3:34:11 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Could not find the file named employees
+3/8/2022 3:34:11 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:35:37 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+3/8/2022 3:35:37 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Could not find the file named employees
+3/8/2022 3:35:37 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:37:03 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+3/8/2022 3:37:03 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Could not find the file named employees
+3/8/2022 3:37:04 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/8/2022 3:37:04 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/8/2022 3:37:04 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,"System.SystemException: Carbon Health report not found in Downloads folder.
+   at System.Activities.Statements.Throw.Execute(CodeActivityContext context)
+   at System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+3/8/2022 3:37:07 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Throw: Carbon Health report not found in Downloads folder.
+3/8/2022 3:37:07 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution ended
+3/8/2022 3:47:21 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/8/2022 3:47:25 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Process Execution Started : 03/08/2022 17:17:25
+3/8/2022 3:47:25 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Closing the applications
+3/8/2022 3:47:25 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Reading Config file
+3/8/2022 3:47:26 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/8/2022 3:47:26 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/8/2022 3:47:26 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+3/8/2022 3:47:26 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+3/8/2022 3:47:26 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+3/8/2022 3:47:30 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Logging into Carbon Health portal
+3/8/2022 3:47:31 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:47:45 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:48:17 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+3/8/2022 3:48:17 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,File Downloaded | File Name is : C:\Users\aadvitot\Downloads\employees-2022-03-08_17_18.csv
+3/8/2022 3:48:17 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Carbon Health report downloaded successfully
+3/8/2022 3:48:17 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Carbon Health Employee Report path: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\CarbonHealthDailyCheckin\Input\employees-2022-03-08_17_18.csv
+3/8/2022 3:48:17 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/8/2022 3:48:23 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Comparison of Carbon Health Employee report and On-site report is completed.
+3/8/2022 3:48:24 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Non-Compliant User ID's extracted from Daily Compliance report.
+3/8/2022 3:48:25 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\CarbonHealthDailyCheckin\Template\Checkin NonCompliance DATE.docx
+3/8/2022 3:48:35 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Missed Carbon Checkin email sent to all Non-Complinat Users.
+3/8/2022 3:48:38 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Daily Compliance Report sent to business group.
+3/8/2022 3:48:38 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,Process Execution Completed : 03/08/2022 17:18:38
+3/8/2022 3:48:38 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-009,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution ended
+3/9/2022 12:44:40 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/9/2022 12:44:45 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Process Execution Started : 03/09/2022 14:14:45
+3/9/2022 12:44:45 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Closing the applications
+3/9/2022 12:44:45 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Reading Config file
+3/9/2022 12:44:47 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/9/2022 12:44:47 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/9/2022 12:44:47 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+3/9/2022 12:44:47 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+3/9/2022 12:44:47 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+3/9/2022 12:44:49 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Onsite Report email not received for 09-Mar-2022
+3/9/2022 12:44:50 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/9/2022 12:44:50 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/9/2022 12:44:50 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,"UiPath.Core.BusinessRuleException: Onsite Report email not received for 09-Mar-2022
+   at System.Activities.Statements.Throw.Execute(CodeActivityContext context)
+   at System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+3/9/2022 12:44:53 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Throw: Onsite Report email not received for 09-Mar-2022
+3/9/2022 12:44:53 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution ended
+3/9/2022 12:46:13 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/9/2022 12:46:17 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Process Execution Started : 03/09/2022 14:16:17
+3/9/2022 12:46:18 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Closing the applications
+3/9/2022 12:46:18 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Reading Config file
+3/9/2022 12:46:19 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/9/2022 12:46:19 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/9/2022 12:46:19 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+3/9/2022 12:46:19 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+3/9/2022 12:46:19 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+3/9/2022 12:46:22 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/9/2022 12:46:22 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/9/2022 12:46:22 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,"System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at lambda_method(Closure , ActivityContext )
+   at Microsoft.VisualBasic.Activities.VisualBasicValue`1.Execute(CodeActivityContext context)
+   at System.Activities.CodeActivity`1.InternalExecuteInResolutionContext(CodeActivityContext context)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteInResolutionContext[T](ActivityInstance parentInstance, Activity`1 expressionActivity)
+   at System.Activities.InArgument`1.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance activityInstance, ActivityExecutor executor)
+   at System.Activities.RuntimeArgument.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance targetActivityInstance, ActivityExecutor executor, Object argumentValueOverride, Location resultLocation, Boolean skipFastPath)
+   at System.Activities.ActivityInstance.InternalTryPopulateArgumentValueOrScheduleExpression(RuntimeArgument argument, Int32 nextArgumentIndex, ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Boolean isDynamicUpdate)
+   at System.Activities.ActivityInstance.ResolveArguments(ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Int32 startIndex)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+3/9/2022 12:46:24 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,"Assign: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index"
+3/9/2022 12:46:25 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution ended
+3/9/2022 12:48:44 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/9/2022 12:48:49 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Process Execution Started : 03/09/2022 14:18:49
+3/9/2022 12:48:49 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Closing the applications
+3/9/2022 12:48:49 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Reading Config file
+3/9/2022 12:48:50 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/9/2022 12:48:50 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/9/2022 12:48:50 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+3/9/2022 12:48:50 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+3/9/2022 12:48:50 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+3/9/2022 12:48:54 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/9/2022 12:48:54 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/9/2022 12:48:54 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,"System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at lambda_method(Closure , ActivityContext )
+   at Microsoft.VisualBasic.Activities.VisualBasicValue`1.Execute(CodeActivityContext context)
+   at System.Activities.CodeActivity`1.InternalExecuteInResolutionContext(CodeActivityContext context)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteInResolutionContext[T](ActivityInstance parentInstance, Activity`1 expressionActivity)
+   at System.Activities.InArgument`1.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance activityInstance, ActivityExecutor executor)
+   at System.Activities.RuntimeArgument.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance targetActivityInstance, ActivityExecutor executor, Object argumentValueOverride, Location resultLocation, Boolean skipFastPath)
+   at System.Activities.ActivityInstance.InternalTryPopulateArgumentValueOrScheduleExpression(RuntimeArgument argument, Int32 nextArgumentIndex, ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Boolean isDynamicUpdate)
+   at System.Activities.ActivityInstance.ResolveArguments(ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Int32 startIndex)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+3/9/2022 12:48:56 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,"Assign: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index"
+3/9/2022 12:48:56 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution ended
+3/9/2022 12:49:18 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/9/2022 12:49:22 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Process Execution Started : 03/09/2022 14:19:22
+3/9/2022 12:49:23 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Closing the applications
+3/9/2022 12:49:23 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Reading Config file
+3/9/2022 12:49:24 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/9/2022 12:49:24 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/9/2022 12:49:24 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+3/9/2022 12:49:24 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+3/9/2022 12:49:24 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+3/9/2022 12:49:27 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/9/2022 12:49:27 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/9/2022 12:49:27 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,"System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at lambda_method(Closure , ActivityContext )
+   at Microsoft.VisualBasic.Activities.VisualBasicValue`1.Execute(CodeActivityContext context)
+   at System.Activities.CodeActivity`1.InternalExecuteInResolutionContext(CodeActivityContext context)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteInResolutionContext[T](ActivityInstance parentInstance, Activity`1 expressionActivity)
+   at System.Activities.InArgument`1.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance activityInstance, ActivityExecutor executor)
+   at System.Activities.RuntimeArgument.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance targetActivityInstance, ActivityExecutor executor, Object argumentValueOverride, Location resultLocation, Boolean skipFastPath)
+   at System.Activities.ActivityInstance.InternalTryPopulateArgumentValueOrScheduleExpression(RuntimeArgument argument, Int32 nextArgumentIndex, ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Boolean isDynamicUpdate)
+   at System.Activities.ActivityInstance.ResolveArguments(ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Int32 startIndex)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+3/9/2022 12:49:30 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,"Assign: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index"
+3/9/2022 12:49:30 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution ended
+3/9/2022 12:51:50 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/9/2022 12:51:54 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Process Execution Started : 03/09/2022 14:21:54
+3/9/2022 12:51:54 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Closing the applications
+3/9/2022 12:51:55 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Reading Config file
+3/9/2022 12:51:55 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/9/2022 12:51:55 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/9/2022 12:51:55 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+3/9/2022 12:51:55 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+3/9/2022 12:51:55 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+3/9/2022 12:51:59 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Employees Carbon Health Report not present in Input folder
+3/9/2022 12:51:59 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/9/2022 12:51:59 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/9/2022 12:52:00 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,"System.Exception: Employees Carbon Health Report not present in Input folder.
+   at System.Activities.Statements.Throw.Execute(CodeActivityContext context)
+   at System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+3/9/2022 12:52:02 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Throw: Employees Carbon Health Report not present in Input folder.
+3/9/2022 12:52:02 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution ended
+3/9/2022 12:53:49 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/9/2022 12:53:53 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Process Execution Started : 03/09/2022 14:23:53
+3/9/2022 12:53:53 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Closing the applications
+3/9/2022 12:53:53 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Reading Config file
+3/9/2022 12:53:54 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/9/2022 12:53:54 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/9/2022 12:53:54 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+3/9/2022 12:53:54 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+3/9/2022 12:53:54 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+3/9/2022 12:53:59 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Comparison of Carbon Health Employee report and On-site report is completed.
+3/9/2022 12:53:59 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Non-Compliant User ID's extracted from Daily Compliance report.
+3/9/2022 12:54:00 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\CarbonHealthDailyCheckin\Template\Checkin NonCompliance DATE.docx
+3/9/2022 12:54:09 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Missed Carbon Checkin email sent to all Non-Complinat Users.
+3/9/2022 12:54:11 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Daily Compliance Report sent to business group.
+3/9/2022 12:54:11 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Process Execution Completed : 03/09/2022 14:24:11
+3/9/2022 12:54:11 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution ended
+3/9/2022 12:58:08 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/9/2022 12:58:14 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Process Execution Started : 03/09/2022 14:28:14
+3/9/2022 12:58:14 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Closing the applications
+3/9/2022 12:58:14 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Reading Config file
+3/9/2022 12:58:15 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/9/2022 12:58:15 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/9/2022 12:58:15 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+3/9/2022 12:58:15 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+3/9/2022 12:58:15 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+3/9/2022 12:58:18 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Employees Carbon Health Report not present in Input folder
+3/9/2022 12:58:19 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/9/2022 12:58:19 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/9/2022 12:58:19 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,"System.Exception: Employees Carbon Health Report not present in Input folder.
+   at System.Activities.Statements.Throw.Execute(CodeActivityContext context)
+   at System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+3/9/2022 12:58:21 AM,Error,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Throw: Employees Carbon Health Report not present in Input folder.
+3/9/2022 12:58:21 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution ended
+3/9/2022 12:58:59 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/9/2022 12:59:03 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Process Execution Started : 03/09/2022 14:29:03
+3/9/2022 12:59:04 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Closing the applications
+3/9/2022 12:59:04 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Reading Config file
+3/9/2022 12:59:05 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/9/2022 12:59:05 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/9/2022 12:59:05 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+3/9/2022 12:59:05 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+3/9/2022 12:59:05 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+3/9/2022 12:59:10 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Comparison of Carbon Health Employee report and On-site report is completed.
+3/9/2022 12:59:10 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Non-Compliant User ID's extracted from Daily Compliance report.
+3/9/2022 12:59:11 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\CarbonHealthDailyCheckin\Template\Checkin NonCompliance DATE.docx
+3/9/2022 12:59:18 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Missed Carbon Checkin email sent to all Non-Complinat Users.
+3/9/2022 12:59:20 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Daily Compliance Report sent to business group.
+3/9/2022 12:59:20 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Process Execution Completed : 03/09/2022 14:29:20
+3/9/2022 12:59:20 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution ended
+3/9/2022 1:32:54 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/9/2022 1:32:58 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Process Execution Started : 03/09/2022 15:02:58
+3/9/2022 1:32:59 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Closing the applications
+3/9/2022 1:32:59 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Reading Config file
+3/9/2022 1:32:59 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,DefaultPath: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop
+3/9/2022 1:32:59 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,BPA folder is present in OneDrive location.
+3/9/2022 1:32:59 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Input to Archive folder
+3/9/2022 1:32:59 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving previous day files present in Output to Archive folder
+3/9/2022 1:33:00 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Moving files present in Downloads folder to Archive folder
+3/9/2022 1:33:04 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Logging into Carbon Health portal
+3/9/2022 1:33:05 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/9/2022 1:33:26 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/9/2022 1:34:02 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Checking for Employees Carbon Health report
+3/9/2022 1:34:02 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,File Downloaded | File Name is : C:\Users\aadvitot\Downloads\employees-2022-03-09_15_03.csv
+3/9/2022 1:34:02 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Carbon Health report downloaded successfully
+3/9/2022 1:34:02 AM,Trace,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Carbon Health Employee Report path: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\CarbonHealthDailyCheckin\Input\employees-2022-03-09_15_03.csv
+3/9/2022 1:34:02 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/9/2022 1:34:06 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Comparison of Carbon Health Employee report and On-site report is completed.
+3/9/2022 1:34:07 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Non-Compliant User ID's extracted from Daily Compliance report.
+3/9/2022 1:34:08 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\CarbonHealthDailyCheckin\Template\Checkin NonCompliance DATE.docx
+3/9/2022 1:34:15 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Missed Carbon Checkin email sent to all Non-Complinat Users.
+3/9/2022 1:34:18 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Daily Compliance Report sent to business group.
+3/9/2022 1:34:18 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,Process Execution Completed : 03/09/2022 15:04:18
+3/9/2022 1:34:18 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-077,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution ended
+3/9/2022 7:19:09 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution started
+3/9/2022 7:19:12 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/9/2022 7:19:20 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution started
+3/9/2022 7:19:23 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\Test.docx
+3/9/2022 7:19:59 AM,Error,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,"Activate 'winword.exe Find': Could not find the UI element corresponding to this selector:
+[1] <wnd app='winword.exe' cls='bosa_sdm_msword' title='Find and Replace'/>
+
+Search failed at selector tag:
+[1] <wnd app='winword.exe' cls='bosa_sdm_msword' title='Find and Replace'/>
+
+The closest matches found are:
+[50%] <wnd app='winword.exe' cls='OpusApp' title='Test - Word'/>"
+3/9/2022 7:19:59 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/9/2022 7:20:58 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution started
+3/9/2022 7:21:03 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\Test.docx
+3/9/2022 7:21:06 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/9/2022 8:12:48 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution started
+3/9/2022 8:12:53 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\Test.docx
+3/9/2022 8:13:25 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/9/2022 8:14:12 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution started
+3/9/2022 8:14:16 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\Test.docx
+3/9/2022 8:14:27 AM,Error,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,"Click 'MsoCommandBar': Click with ""Simulate"" is not supported for this element. Please use other input method."
+3/9/2022 8:14:27 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/9/2022 8:16:19 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution started
+3/9/2022 8:16:22 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\Test.docx
+3/9/2022 8:19:44 AM,Error,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,"Activate 'winword.exe  Find Font': Could not find the UI element corresponding to this selector:
+[1] <wnd app='winword.exe' cls='bosa_sdm_msword' title='Find Font'/>
+
+Search failed at selector tag:
+[1] <wnd app='winword.exe' cls='bosa_sdm_msword' title='Find Font'/>
+
+The closest matches found are:
+[49%] <wnd app='winword.exe' cls='OpusApp' title='Test - Word'/>"
+3/9/2022 8:19:44 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/9/2022 8:24:30 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution started
+3/9/2022 8:24:34 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\Test.docx
+3/9/2022 8:27:38 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution started
+3/9/2022 8:27:42 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\Test.docx
+3/9/2022 8:48:19 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution started
+3/9/2022 8:48:24 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,WordUiActivities Executing
+3/9/2022 8:48:24 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,WordUiActivities Executing
+3/9/2022 8:48:24 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Kill Process Executing
+3/9/2022 8:48:24 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Kill Process Closed
+3/9/2022 8:48:24 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\Test.docx
+3/9/2022 8:48:28 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Word Application Scope Executing
+3/9/2022 8:48:28 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Do Executing
+3/9/2022 8:48:28 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Send Hotkey 'page  Page 1' Executing
+3/9/2022 8:48:29 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Send Hotkey 'page  Page 1' Closed
+3/9/2022 8:48:29 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Activate 'winword.exe Find' Executing
+3/9/2022 8:48:30 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Activate 'winword.exe Find' Closed
+3/9/2022 8:48:30 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Type Into 'RichEdit20W' Executing
+3/9/2022 8:48:31 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Type Into 'RichEdit20W' Closed
+3/9/2022 8:48:31 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Type Into 'RichEdit20W' Executing
+3/9/2022 8:48:31 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Type Into 'RichEdit20W' Closed
+3/9/2022 8:48:31 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Click 'push button  More >>' Executing
+3/9/2022 8:48:32 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Click 'push button  More >>' Closed
+3/9/2022 8:48:32 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Activate 'winword.exe Find' Executing
+3/9/2022 8:48:32 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Activate 'winword.exe Find' Closed
+3/9/2022 8:48:33 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Click 'MsoCommandBar' Executing
+3/9/2022 8:48:33 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Click 'MsoCommandBar' Closed
+3/9/2022 8:48:33 AM,Trace,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Click 'menu item  Font...' Executing
+3/9/2022 8:50:12 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution started
+3/9/2022 8:50:16 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\Test.docx
+3/9/2022 8:57:07 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution started
+3/9/2022 8:57:11 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\Test.docx
+3/9/2022 9:02:07 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution started
+3/9/2022 9:02:11 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\Test.docx
+3/9/2022 9:04:34 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution started
+3/9/2022 9:04:38 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\Test.docx
+3/9/2022 9:06:36 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-077,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/10/2022 5:55:36 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-071,EXELIXIS\aadvitot,TestCheck1 execution started
+3/10/2022 5:55:39 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-071,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\Test.docx
+3/10/2022 5:57:06 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-071,EXELIXIS\aadvitot,TestCheck1 execution started
+3/10/2022 5:57:08 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-071,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\Test.docx
+3/10/2022 5:58:45 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-071,EXELIXIS\aadvitot,TestCheck1 execution started
+3/10/2022 5:58:47 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-071,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\Test.docx
+3/10/2022 5:59:49 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-071,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/10/2022 6:01:08 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-071,EXELIXIS\aadvitot,TestCheck1 execution started
+3/10/2022 6:01:10 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-071,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\Test.docx
+3/10/2022 6:09:44 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-071,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/11/2022 9:10:36 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,CarbonHealthDailyCheckin_11Mar execution started
+3/11/2022 9:10:51 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Process Execution Started : 03/11/2022 17:10:51
+3/11/2022 9:10:51 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Reading Config file
+3/11/2022 9:10:53 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,BPA folder is present in OneDrive location.
+3/11/2022 9:10:53 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Input to Archive folder
+3/11/2022 9:10:53 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Output to Archive folder
+3/11/2022 9:10:53 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving files present in Downloads folder to Archive folder
+3/11/2022 9:10:57 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,BPA folder is present in OneDrive location.
+3/11/2022 9:10:57 AM,Error,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,"System.ArgumentException: The specified folder does not exist
+   at UiPath.Mail.Activities.GetMailActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+3/11/2022 9:11:28 AM,Error,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Send Outlook Mail Message: The operation has timed out.
+3/11/2022 9:11:29 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,BPA folder is present in OneDrive location.
+3/11/2022 9:11:29 AM,Error,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,"System.ArgumentException: The specified folder does not exist
+   at UiPath.Mail.Activities.GetMailActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at UiPath.Executor.BaseRunner.EndExecute(IAsyncResult result)
+   at UiPath.Executor.InProcessRunner.EndExecute(IAsyncResult result)
+   at UiPath.Core.Activities.ExecutorInvokeActivity.EndExecute(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.System.Activities.IAsyncCodeActivity.FinishExecution(AsyncCodeActivityContext context, IAsyncResult result)
+   at System.Activities.AsyncCodeActivity.CompleteAsyncCodeActivityData.CompleteAsyncCodeActivityWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+3/11/2022 9:11:36 AM,Error,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Invoke ReadOutlookEmail&DownloadOnsiteReport workflow: The specified folder does not exist
+3/11/2022 9:11:36 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,CarbonHealthDailyCheckin_11Mar execution ended
+3/11/2022 9:15:16 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,CarbonHealthDailyCheckin_11Mar execution started
+3/11/2022 9:15:18 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Process Execution Started : 03/11/2022 17:15:18
+3/11/2022 9:15:18 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Reading Config file
+3/11/2022 9:15:19 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,BPA folder is present in OneDrive location.
+3/11/2022 9:15:19 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Input to Archive folder
+3/11/2022 9:15:19 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Output to Archive folder
+3/11/2022 9:15:19 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving files present in Downloads folder to Archive folder
+3/11/2022 9:15:20 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,BPA folder is present in OneDrive location.
+3/11/2022 9:15:21 AM,Error,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,"System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at lambda_method(Closure , ActivityContext )
+   at Microsoft.VisualBasic.Activities.VisualBasicValue`1.Execute(CodeActivityContext context)
+   at System.Activities.CodeActivity`1.InternalExecuteInResolutionContext(CodeActivityContext context)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteInResolutionContext[T](ActivityInstance parentInstance, Activity`1 expressionActivity)
+   at System.Activities.InArgument`1.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance activityInstance, ActivityExecutor executor)
+   at System.Activities.RuntimeArgument.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance targetActivityInstance, ActivityExecutor executor, Object argumentValueOverride, Location resultLocation, Boolean skipFastPath)
+   at System.Activities.ActivityInstance.InternalTryPopulateArgumentValueOrScheduleExpression(RuntimeArgument argument, Int32 nextArgumentIndex, ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Boolean isDynamicUpdate)
+   at System.Activities.ActivityInstance.ResolveArguments(ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Int32 startIndex)
+   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+3/11/2022 9:15:29 AM,Error,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,"Assign: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index"
+3/11/2022 9:15:29 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,CarbonHealthDailyCheckin_11Mar execution ended
+3/11/2022 9:17:46 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,CarbonHealthDailyCheckin_11Mar execution started
+3/11/2022 9:17:48 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Process Execution Started : 03/11/2022 17:17:48
+3/11/2022 9:17:48 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Reading Config file
+3/11/2022 9:17:49 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,BPA folder is present in OneDrive location.
+3/11/2022 9:17:49 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Input to Archive folder
+3/11/2022 9:17:49 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving previous day files present in Output to Archive folder
+3/11/2022 9:17:49 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Moving files present in Downloads folder to Archive folder
+3/11/2022 9:17:50 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Logging into Carbon Health portal
+3/11/2022 9:17:53 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/11/2022 9:18:16 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/11/2022 9:19:48 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Checking for Employees Carbon Health report
+3/11/2022 9:19:48 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/11/2022 9:21:13 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Checking for Employees Carbon Health report
+3/11/2022 9:21:13 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/11/2022 9:21:43 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Checking for Employees Carbon Health report
+3/11/2022 9:21:43 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Carbon Health report downloaded successfully
+3/11/2022 9:21:43 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Web App. Browser: Chrome URL: https://business.carbonhealth.com/
+3/11/2022 9:21:47 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Comparison of Carbon Health Employee report and On-site report is completed.
+3/11/2022 9:21:47 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Non-Compliant User ID's extracted from Daily Compliance report.
+3/11/2022 9:21:48 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Audit: Using Word. Document: C:\Users\svc_uibot\Desktop\BPA\CarbonHealthDailyCheckin\Template\Checkin NonCompliance DATE.docx
+3/11/2022 9:22:10 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Missed Carbon Checkin email sent to all Non-Complinat Users.
+3/11/2022 9:22:18 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Daily Compliance Report sent to business group.
+3/11/2022 9:22:18 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,Process Execution Completed : 03/11/2022 17:22:18
+3/11/2022 9:22:18 AM,Info,svc_uibot@exelixis.com-unattended,CarbonHealthDailyCheckin_11Mar,UBOTWINPRD01,EXELIXIS\svc_uibot,CarbonHealthDailyCheckin_11Mar execution ended
+3/14/2022 2:44:48 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-056,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution started
+3/14/2022 2:44:54 AM,Info,aadvitot@exelixis.com-attended,CarbonHealthDailyCheckin,40145A-PRD1-056,EXELIXIS\aadvitot,CarbonHealthDailyCheckin execution ended
+3/15/2022 12:19:32 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 12:19:34 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\M2_MOMEmailTemplate.docx
+3/15/2022 12:19:41 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 12:23:21 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 12:23:23 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\M2_MOMEmailTemplate.docx
+3/15/2022 12:23:30 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 12:28:10 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 12:28:12 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\M2_MOMEmailTemplate.docx
+3/15/2022 12:28:18 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 12:30:30 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 12:30:33 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\M2_MOMEmailTemplate.docx
+3/15/2022 12:30:39 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 12:45:40 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 12:45:43 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\M2_MOMEmailTemplate.docx
+3/15/2022 12:45:50 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 1:23:28 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 1:23:31 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\Test check.docx
+3/15/2022 1:23:38 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 1:24:21 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 1:24:23 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\Test check.docx
+3/15/2022 1:24:29 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 1:24:45 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 1:24:48 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\Test check.docx
+3/15/2022 1:24:54 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 3:42:57 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 3:43:01 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\Test check.docx
+3/15/2022 3:43:09 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 3:44:13 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 3:44:17 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\Test check.docx
+3/15/2022 3:44:24 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 3:45:21 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 3:45:23 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\Test check.docx
+3/15/2022 3:45:29 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 3:46:58 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 3:47:01 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\Test check.docx
+3/15/2022 3:47:07 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 8:31:34 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 8:31:37 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\Test check.docx
+3/15/2022 8:31:43 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 8:35:26 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 8:35:29 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\Test check.docx
+3/15/2022 8:35:35 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 8:37:16 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 8:37:19 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\Test check.docx
+3/15/2022 8:37:25 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 8:40:10 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 8:40:13 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\Test check.docx
+3/15/2022 8:40:19 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 8:56:28 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 8:56:31 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\Test check.docx
+3/15/2022 8:56:37 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 9:01:38 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 9:01:41 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\Test check.docx
+3/15/2022 9:01:47 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 9:03:32 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 9:03:35 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\M2_MOMEmailTemplate.docx
+3/15/2022 9:03:41 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 9:07:26 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 9:07:29 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\M2_MOMEmailTemplate.docx
+3/15/2022 9:07:36 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 9:08:22 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 9:08:25 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\M2_MOMEmailTemplate.docx
+3/15/2022 9:08:31 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 9:09:12 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 9:09:15 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\M2_MOMEmailTemplate.docx
+3/15/2022 9:09:22 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 9:10:20 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 9:10:23 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\M2_MOMEmailTemplate.docx
+3/15/2022 9:10:30 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended
+3/15/2022 9:11:27 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution started
+3/15/2022 9:11:31 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,Audit: Using Word. Document: C:\Users\aadvitot\OneDrive - EXELIXIS INC\Desktop\BPA\BDMOMActionTracker\Template\M2_MOMEmailTemplate.docx
+3/15/2022 9:11:37 AM,Info,aadvitot@exelixis.com-attended,TestCheck1,40145A-PRD1-113,EXELIXIS\aadvitot,TestCheck1 execution ended

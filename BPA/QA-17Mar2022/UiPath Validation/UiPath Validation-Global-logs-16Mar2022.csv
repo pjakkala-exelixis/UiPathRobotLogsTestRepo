@@ -1,0 +1,11 @@
+﻿Time,Level,Robot name,Process,Hostname,Host Identity,Message
+2/17/2022 4:28:42 PM,Info,svc_uibot@exelixis.com-unattended,Logs,UBOTWINPRD02,EXELIXIS\svc_uibot,Logs execution started
+2/17/2022 4:28:50 PM,Fatal,svc_uibot@exelixis.com-unattended,Logs,UBOTWINPRD02,EXELIXIS\svc_uibot,log
+2/17/2022 4:28:50 PM,Error,svc_uibot@exelixis.com-unattended,Logs,UBOTWINPRD02,EXELIXIS\svc_uibot,log
+2/17/2022 4:28:50 PM,Info,svc_uibot@exelixis.com-unattended,Logs,UBOTWINPRD02,EXELIXIS\svc_uibot,log
+2/17/2022 4:28:50 PM,Warning,svc_uibot@exelixis.com-unattended,Logs,UBOTWINPRD02,EXELIXIS\svc_uibot,log
+2/17/2022 4:28:50 PM,Info,svc_uibot@exelixis.com-unattended,Logs,UBOTWINPRD02,EXELIXIS\svc_uibot,Logs execution ended
+2/17/2022 4:29:53 PM,Info,svc_uibot@exelixis.com-unattended,UiPath-Validation-NHO-PPT_08Nov,UBOTWINPRD02,EXELIXIS\svc_uibot,UiPath-Validation-NHO-PPT_08Nov execution started
+2/17/2022 4:29:58 PM,Error,svc_uibot@exelixis.com-unattended,UiPath-Validation-NHO-PPT_08Nov,UBOTWINPRD02,EXELIXIS\svc_uibot,Read range (Settings and Constants sheets): The workbook does not exist
+2/17/2022 4:29:58 PM,Fatal,svc_uibot@exelixis.com-unattended,UiPath-Validation-NHO-PPT_08Nov,UBOTWINPRD02,EXELIXIS\svc_uibot,System exception at initialization: The workbook does not exist at Source: Read range (Settings and Constants sheets)
+2/17/2022 4:29:58 PM,Info,svc_uibot@exelixis.com-unattended,UiPath-Validation-NHO-PPT_08Nov,UBOTWINPRD02,EXELIXIS\svc_uibot,UiPath-Validation-NHO-PPT_08Nov execution ended
